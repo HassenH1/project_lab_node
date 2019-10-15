@@ -17,3 +17,4 @@ const fruits = [
 ];
 
 module.exports = fruits;
+//representation of our data
